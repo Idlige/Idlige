@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+/* Använder id för elementet och detta är en kommentar i css*/
+#mindiv {
+    padding: 50px;
+}
+
+table,
+th,
+td {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 400px;
+}
+
+/*Här använder vi klass istället till elementet*/
+.hundar {
+
+    width: 200px;
+}
+
+h4 {
+    font-style: italic;
+    text-decoration: underline;
+}

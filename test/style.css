@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: black
+}
+
+p {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+    background-color: lightgray;
+    font-style: italic;
+    text-decoration: underline;
+    width: fit-content;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+button {
+    background-color: gray;
+}
+
+img {
+    width: 300px;
+}
